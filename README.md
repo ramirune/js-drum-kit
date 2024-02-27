@@ -5,4 +5,4 @@ this is the first project from "The JavaScript30 Challenge" from <a href="https:
 ## Tech Stack:
 HTML, JavaScript and CSS
 
-preview link: 
+preview link: https://ramirune.github.io/js-drum-kit/
